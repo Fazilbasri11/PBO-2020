@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BarisanGeometri
+comment1.params=nilaiAwal\ rasioPengali
+comment1.target=BarisanGeometri(int,\ int)
+comment2.params=
+comment2.target=void\ naik()
+numComments=3

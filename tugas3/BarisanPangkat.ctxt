@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BarisanPangkat
+comment1.params=nilaiAwal\ pangkat
+comment1.target=BarisanPangkat(int,\ int)
+comment2.params=
+comment2.target=void\ naik()
+numComments=3

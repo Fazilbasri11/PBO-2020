@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BarisanFibonacci
+comment1.params=nilaiAwal\ nilaiSebelumnya
+comment1.target=BarisanFibonacci(int,\ int)
+comment2.params=
+comment2.target=void\ naik()
+numComments=3
