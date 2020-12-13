@@ -2,4 +2,4 @@ Nama : Fazil basri
 NIM : 1908107010032
 
 LINK YOUTUBE https://youtu.be/WP5qBMyOdW0
-LINK GITHUB https://github.com/xzill11/tugas-pbo
+LINK GITHUB https://github.com/xzill11/PBO-2020/tree/master/tugas3
