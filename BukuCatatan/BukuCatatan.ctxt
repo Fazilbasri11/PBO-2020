@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=BukuCatatan
+comment1.params=
+comment1.target=BukuCatatan()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BukuCatatan\r\n
+comment2.params=isi
+comment2.target=void\ tambahCatatan(java.lang.String)
+comment3.params=indeks
+comment3.target=void\ hapusCatatan(int)
+comment4.params=isi
+comment4.target=void\ hapusCatatan(java.lang.String)
+comment5.params=indeks\ dataBaru
+comment5.target=void\ ubahCatatan(int,\ java.lang.String)
+comment6.params=indeks
+comment6.target=java.lang.String\ bacaCatatan(int)
+comment7.params=
+comment7.target=int\ jumlahCatatan()
+comment8.params=
+comment8.target=void\ tampilSemuaCatatan()
+numComments=9

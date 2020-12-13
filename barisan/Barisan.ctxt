@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Barisan
+comment1.params=
+comment1.target=Barisan()
+comment2.params=nilaiAwal
+comment2.target=Barisan(int)
+comment3.params=
+comment3.target=int\ berikutnya()
+comment4.params=
+comment4.target=void\ naik()
+numComments=5

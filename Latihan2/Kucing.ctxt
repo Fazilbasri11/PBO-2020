@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Kucing
+comment1.params=
+comment1.target=Kucing()
+comment2.params=nama\ umur
+comment2.target=Kucing(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getNama()
+comment4.params=nama
+comment4.target=void\ setNama(java.lang.String)
+comment5.params=
+comment5.target=void\ tambahUmur()
+comment6.params=
+comment6.target=int\ getUmur()
+comment7.params=
+comment7.target=java.lang.String\ getImutRating()
+comment8.params=jumlompat
+comment8.target=void\ cetakLompat(int)
+numComments=9

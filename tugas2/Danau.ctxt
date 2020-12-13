@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Danau
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Danau\ here.\r\n\r\n\ @author\ Munawarah\r\n\ @version\ 22-11-2020\r\n
+comment1.params=
+comment1.target=Danau()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Danau\r\n
+comment2.params=
+comment2.target=int\ getLokasi()
+comment3.params=jumKotak
+comment3.target=Danau(int)
+comment4.params=
+comment4.target=void\ buatKotak()
+comment5.params=baris\ lajur
+comment5.target=void\ tambahKatak(int,\ int)
+comment6.params=baris\ lajur
+comment6.target=boolean\ adaKatak(int,\ int)
+comment7.params=baris\ lajur
+comment7.target=void\ hapusKatak(int,\ int)
+numComments=8

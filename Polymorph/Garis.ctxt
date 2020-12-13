@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Garis
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ Garis\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=koordinat_x1\ koordinat_y1\ koordinat_x2\ koordinat_y2
+comment1.target=Garis(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=double\ panjangGaris()
+comment3.params=a\ b
+comment3.target=int\ bandingkan(java.lang.Object,\ java.lang.Object)
+numComments=4

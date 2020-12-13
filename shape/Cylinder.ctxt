@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Cylinder
+comment0.text=\r\n\ Class\ Cylinder\ merupakan\ turunan\ dari\ class\ Circle\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Cylinder()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cylinder\r\n
+comment2.params=radius
+comment2.target=Cylinder(double)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cylinder\r\n
+comment3.params=radius\ height
+comment3.target=Cylinder(double,\ double)
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cylinder\r\n
+comment4.params=
+comment4.target=double\ getHeight()
+comment4.text=\r\n\ Method\ getHeight\ untuk\ mengembalikan\ tinggi\ cylinder\r\n\ \r\n\ @return\ \ \ \ \ tinggi\ cylinder\r\n
+comment5.params=
+comment5.target=double\ getVolume()
+comment5.text=\r\n\ Method\ getVolume\ untuk\ mengembalikan\ volume\ cylinder\r\n\ \r\n\ @return\ \ \ \ \ volume\ cylinder\r\n
+numComments=6
