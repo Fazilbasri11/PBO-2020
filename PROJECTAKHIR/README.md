@@ -26,7 +26,9 @@
  *RUN !
  ```java kode/main/Main```
  
- untuk lebih jelasnya [Klik Disini](<https://stackoverflow.com/questions/49726564/javac-main-java-is-not-working-in-cmd/49726625> "Optional title")   :grinning:
+ untuk lebih jelasnya [Klik Disini](<https://stackoverflow.com/questions/49726564/javac-main-java-is-not-working-in-cmd/49726625> "questions")   :grinning:
+
+ 
 
  #### informasi tambahan
   - Code class main.java didalamnya terdapat penggunaan;  perulangan while, switch case,
