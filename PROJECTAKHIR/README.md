@@ -6,7 +6,7 @@
 - Code menerapkan sistem CRUD tambah,hapus, dan lihat data.
 - Pada code ini terdapat 3 file yaitu, Main.java dalam folder main sebagai file utama untuk menjalankan program, file Bus.java dan file Penumpang.java
   terdapat dalm folder project.
-- Link Youtube [Klik Disini](<https://youtu.be/VOMvgCLbpiI> "youtube")
+- Link Youtube [Klik Disini](<https://youtu.be/edY1pDW8e5Q> "youtube")
    
 
 ### Cara kerja kode :
