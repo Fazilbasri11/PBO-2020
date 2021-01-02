@@ -2,7 +2,7 @@
 
 ```Fazil Basri 1908107010032```
 
-- Code ini bertujuan untuk memenuhi tugas yang diberikan pada praktikum lab pbo 2020
+- Code ini bertujuan untuk memenuhi tugas yang diberikan pada mk pbo 2020
 - Code menerapkan sistem CRUD tambah,hapus, dan lihat data.
 - Pada code ini terdapat 3 file yaitu, Main.java dalam folder main sebagai file utama untuk menjalankan program, file Bus.java dan file Penumpang.java 
    terdapat dalm folder project.
@@ -26,7 +26,7 @@
  *RUN !
  ```java kode/main/Main```
  
- untuk lebih jelasnya https://stackoverflow.com/questions/49726564/javac-main-java-is-not-working-in-cmd/49726625  :grinning:
+ untuk lebih jelasnya [Klik Disini](<https://stackoverflow.com/questions/49726564/javac-main-java-is-not-working-in-cmd/49726625> "Optional title")   :grinning:
 
  #### informasi tambahan
   - Code class main.java didalamnya terdapat penggunaan;  perulangan while, switch case,
