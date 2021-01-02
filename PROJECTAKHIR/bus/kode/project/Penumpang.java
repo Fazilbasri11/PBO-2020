@@ -7,7 +7,7 @@ import java.util.GregorianCalendar;
 // class penumpang
 public class Penumpang{
 	private String nama;
-    private int id,umur,saldo, ongkos,saldoBaru;
+    private int id,umur,saldo, ongkos,saldoBaru, sisaSaldo;
     private boolean hamil;
 	private boolean prioritas;
 
@@ -16,13 +16,12 @@ public class Penumpang{
         this.nama = nama;
         this.umur = umur;
 		this.hamil = hamil;
-		this.saldo = saldo;
+		this.saldo = 10000;
 		if (umur > 60 || umur < 10 || hamil) {
             prioritas = true;
         }else{
             prioritas = false;
 		}
-		
 	}
 
 	//method set
@@ -57,15 +56,20 @@ public class Penumpang{
 		this.prioritas=prioritas;
 	}
 
-	// Belum siap untuk saldo, maka digunakan cara manual saja di main class
 	public int getSaldo(){ 
 		return saldo;
 	}
 	public void tambahSaldo(int saldoBaru){
 		this.saldoBaru=saldoBaru;
 	}
-	public void kurangiSaldo(int ongkos){
-		this.ongkos=ongkos;
+	public void kurangiSaldo(int ongkos){	
+		ongkos = 2000;
+		this.sisaSaldo = getSaldo()- ongkos;
+	}
+
+	public int sisaSaldo(){
+		kurangiSaldo(2000);
+		return this.sisaSaldo;
 	}
 
 	/*

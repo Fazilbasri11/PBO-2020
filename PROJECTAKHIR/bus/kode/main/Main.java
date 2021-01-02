@@ -65,19 +65,12 @@ public class Main{
                             }else {
                                 hamil = false;
                             }
-
-                            /* Dikarenakan cara menggunakan saldo yang dimaksud pada soal 
-                                saya belum paham (dari class pemain) maka saya buatkan, jika input bayar kurang dari 2000
-                                maka penumpang tidak bisa naik ( tdiak bisa ditambahkan penumpang)
-                            */
-                            System.out.print("Input Bayar (2000) : "); saldo=input.nextInt();
-                            if(saldo < 2000){
-                                 System.out.println("Maaf uang tidak cukup");
-                            }else{
-                                penumpang = new Penumpang(id, nama, umur, hamil, saldo);
-                                berhasilNaik = bus.naik(penumpang);
-                                bus.display();
-                            } 
+                            penumpang = new Penumpang(id, nama, umur, hamil, 10000);
+                            System.out.println("Saldo : " + penumpang.getSaldo());
+                            berhasilNaik = bus.naik(penumpang);
+                            System.out.println("Sisa Saldo : " +penumpang.sisaSaldo());
+                            bus.display();
+                            
                         }catch(Exception e) { // exeption random, untuk mempersingkat kode
                             System.err.println("<err ditemukan> Kesalahan input, mohon ulangi");
                         }
