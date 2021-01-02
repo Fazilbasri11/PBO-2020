@@ -107,6 +107,6 @@ public class Bus{
 
 		int jmlh = getJumlahPenumpangBiasa() + getJumlahPenumpangPrioritas() + getJumlahPenumpangBerdiri();
 		System.out.println("\n=== Jumlah Penumpang : "+jmlh+" ===");
-		System.out.println("=== Jumlah Pendapatan : "+jmlh*2000+" ==="); // dikarenakan fungsi dari metod saldo belum berfungsi pada class , maka saya menggunakan cara ini.
+		System.out.println("=== Jumlah Pendapatan : "+jmlh*2000+" ==="); 
 	}
 }	
