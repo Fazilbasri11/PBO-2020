@@ -15,7 +15,7 @@
 - setiap penumpang akan ditampung dalam arraylist, terdapat 3 array list, yaitu arraylist penumpang biasa, arraylist priotitas, dan penumpang berdiri;
 
 ### Compile dan Run
-- jika pada vsc maka open folder lalu run di main.java
+- jika pada vsc maka open folder ```bus\kode``` lalu run di main.java
 - jika menggunakan cmd/terminal maka compile terlebih dahulu file Bus.java bersamaan dengan Penumpang, 
   lalu dilanjutkan dengan compile file. Main.java
  
