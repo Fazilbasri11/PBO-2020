@@ -4,8 +4,10 @@
 
 - Code ini bertujuan untuk memenuhi tugas yang diberikan pada mk pbo 2020
 - Code menerapkan sistem CRUD tambah,hapus, dan lihat data.
-- Pada code ini terdapat 3 file yaitu, Main.java dalam folder main sebagai file utama untuk menjalankan program, file Bus.java dan file Penumpang.java 
-   terdapat dalm folder project.
+- Pada code ini terdapat 3 file yaitu, Main.java dalam folder main sebagai file utama untuk menjalankan program, file Bus.java dan file Penumpang.java
+  terdapat dalm folder project.
+- Link Youtube [Klik Disini](<https://youtu.be/VOMvgCLbpiI> "youtube")
+   
 
 ### Cara kerja kode :
 - sistem bus merupakan isi kode ini, yang mana didalam bus hanya terdapat 40 kursi, 20 kursi biasa yang boleh di isi oleh siapa saja, 
